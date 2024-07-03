@@ -5,3 +5,5 @@ The goal of this project is to create a personal website that showcases your ski
 ## Inspiration
 
 - Awwwards page
+
+![First Look](./images/image.png)
